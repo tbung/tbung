@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![Till's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbung&show_icons=true&theme=radical)](https://github.com/tbung)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbung)](https://github.com/tbung)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbung&hide=jupyter_notebook)](https://github.com/tbung)
 
 <!--
 **tbung/tbung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
